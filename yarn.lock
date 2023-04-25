@@ -4192,7 +4192,7 @@
     "safe-buffer" "~5.1.0"
 
 "string-format@^0.5.0":
-  "integrity" "sha1-v8SmmiUPF/Jz2XM2eX2vXcpuzzA= sha512-c/CiKQMy7uuEzi+Tsvnn63/PQw/F7IOSLHNuQ44Eypd0x5VvFnDXMd2T9H0ntphv8nrHAKoZcINPb/yitOAB/g=="
+  "integrity" "sha512-c/CiKQMy7uuEzi+Tsvnn63/PQw/F7IOSLHNuQ44Eypd0x5VvFnDXMd2T9H0ntphv8nrHAKoZcINPb/yitOAB/g=="
   "resolved" "https://registry.npmjs.org/string-format/-/string-format-0.5.0.tgz"
   "version" "0.5.0"
 
