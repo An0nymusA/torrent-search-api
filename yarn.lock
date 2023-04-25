@@ -4401,6 +4401,16 @@
     "regex-not" "^1.0.2"
     "safe-regex" "^1.1.0"
 
+"torrent-search-api@github:An0nymusA/torrent-search-api":
+  "resolved" "git+ssh://git@github.com/An0nymusA/torrent-search-api.git#f986ebe319c33a91593314b8bf6982311b07907f"
+  "version" "2.1.4"
+  dependencies:
+    "cloudscraper" "^4.6.0"
+    "lodash" "^4.17.15"
+    "request" "^2.88.2"
+    "scraperx" "github:An0nymusA/ScraperX"
+    "string-format" "^0.5.0"
+
 "tough-cookie@^2.3.3", "tough-cookie@^2.3.4", "tough-cookie@~2.5.0":
   "integrity" "sha512-nlLsUzgm1kfLXSXfRZMc1KLAugd4hqJHDTvc2hDIwS3mZAfMEuMbc03SujMF+GEcpaX/qboeycw6iO8JwVv2+g=="
   "resolved" "https://registry.npmjs.org/tough-cookie/-/tough-cookie-2.5.0.tgz"
