@@ -39,8 +39,7 @@
     "lodash": "^4.17.15",
     "request": "^2.88.2",
     "scraperx": "github:An0nymusA/ScraperX",
-    "string-format": "^0.5.0",
-    "torrent-search-api": "github:An0nymusA/torrent-search-api"
+    "string-format": "^0.5.0"
   },
   "devDependencies": {
     "@types/jest": "^22.1.3",
