@@ -2,6 +2,7 @@ const path = require('path');
 const createApi = require('./createApi');
 
 const providers = [
+  require('./lib/providers/torrentgalaxy.json'),
   require('./lib/providers/1337x.js'),
   require('./lib/providers/eztv.json'),
   require('./lib/providers/limetorrents.json'),

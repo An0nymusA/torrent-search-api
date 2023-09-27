@@ -1,0 +1,20 @@
+{
+    "name": "TorrentGalaxy",
+    "baseUrl": "https://torrentgalaxy.to",
+    "searchUrl": "/torrents.php?search={query}&sort=seeders&order=desc",
+    "categories": {
+       "All": ""
+    },
+    "defaultCategory": "All",
+    "resultsPerPageCount": 50,
+    "itemsSelector": ".tgxtable .tgxtablerow",
+    "itemSelectors": {
+       "title": "div.click a.txlight@text",
+       "link": "div.click a.txlight@href",
+       "magnet": "a[href^='magnet:?']@href",
+       "time": "div:nth-child(12)@text",
+       "seeds": "div:nth-child(11) font | int",
+       "size": ".badge.badge-secondary.txlight@text"
+    },
+    "paginateSelector": "a:contains(Next)@href"
+ }
